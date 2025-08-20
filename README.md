@@ -1,0 +1,2 @@
+# pattern-
+Java pattern printings 
